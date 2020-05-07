@@ -1,8 +1,7 @@
-# Krono-BotXY
 
 ***
 
-## ¯\_(ツ)_/¯ INSTALLAZIONE ¯\_(ツ)_/¯
+## INSTALLAZIONE
 
 [![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
